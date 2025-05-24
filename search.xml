@@ -138,6 +138,29 @@
     </entry>
     
     
+    
+    <entry>
+      <title>深度学习总结</title>
+      <link href="/post/4013122.html"/>
+      <url>/post/4013122.html</url>
+      
+        <content type="html"><![CDATA[<p>3435894385</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"># 这是一个Python代码块</span><br><span class="line">def hello(name):</span><br><span class="line">    print(f&quot;Hello, &#123;name&#125;!&quot;)</span><br></pre></td></tr></table></figure><p>$$<br>% 这是一个数学公式块：<br> f(x) &#x3D; \frac{1123}{\sqrt{22233434\pi}\sigma}e^{-\frac{(x-\mu)^14342}{2\sigma^2}}<br>$$</p><table><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+            <tag> 深度学习 </tag>
+            
+            <tag> 总结 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>
